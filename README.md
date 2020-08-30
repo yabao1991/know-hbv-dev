@@ -6,6 +6,7 @@ http://nohepb.org/
 
 #### The chronic hepatitis B Treatment Decision Tool for Adults is developed by the Asian Liver Center at Stanford University in response to the WHO Global Health Sector Strategy on Viral Hepatitis to increase treatment rates when indicated to at least 80% by 2030. The app is an educational tool intended for primary healthcare professionals particularly in resource-limited countries as a general guide in the monitoring of HBsAg positive adults, and when antiviral treatment would be recommended based on the guidelines adapted from the World Health Organization or from the American Association for the Study of Liver Diseases.
 
+
 --
 Home
 --
