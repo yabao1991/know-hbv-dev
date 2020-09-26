@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="yabao.0x5a@gmail.com">
+    <link rel="icon" href="picture/joinjade-logo.png" type="image/x-icon">
+
+    <title>Online Treatment Tool</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="CSS/bootstrap.min.css" rel="stylesheet">
+
+    <!-- style -->
+    <link href="CSS/style.css" rel="stylesheet">
+    <style type="text/css">
+      @media (min-width: 768px) {
+        /* Pull out the header and footer */
+        .masthead {
+          position: fixed;
+          top: 0;
+        }
+        .mastfoot {
+          position: fixed;
+          bottom: 0;
+        }
+        /* Start the vertical centering */
+        .site-wrapper-inner {
+          vertical-align: middle;
+        }
+        /* Handle the widths */
+        .masthead,
+        .mastfoot,
+        .cover-container {
+          width: 100%; /* Must be percentage or pixels for horizontal alignment */
+        }
+      }
+
+      @media (min-width: 992px) {
+        .masthead,
+        .mastfoot,
+        .cover-container {
+          width: 700px;
+        }
+        .badge_png {
+          flex-direction: row;
+          margin: 0 auto;
+        }
+    }
+    @media screen and (max-width: 600px) {
+        .badge_png {
+          flex-direction: column;
+          margin: 0 auto;
+          margin-bottom: 30px;
+        }
+      }
+    </style>
+   
+  </head>
+
+  <body class="brand-info">
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+          <div class="cover-container container" style="width: 55%;">
+            <div class="masthead clearfix" style="top:0;">
+              <div class="inner">
+                <a href="https://med.stanford.edu/liver.html" target="_blank" title="Asian Liver Center at Stanford University"><img src="picture/alc-logo.png" alt="alc-logo" class="img-rounded img-responsive center-block col-lg-5 masthead-brand"></a>
+                <nav>
+                  <ul class="nav masthead-nav">
+                  
+                  </ul>
+                </nav>
+              </div>
+            </div>
+            <img src="picture/white-hbv-logo.png" alt="white-hbv-logo" class="img-rounded img-responsive center-block col-lg-6 gallery-item">
+
+            <div class="inner cover col-lg-6">
+              <h2 class="cover-heading"><strong>Chronic Hepatitis B Treatment Decision Tool For Adults</strong></h2>
+              
+            </div>
+            <hr>
+            <div class="row">
+              <div class="col-md-12">
+                <br>
+                <br>
+                <a class="btn btn-lg btn-danger active" href="chinese/HomePage-E.html" role="button">&nbsp;&nbsp;中文&nbsp;&nbsp;</a>
+                <a class="btn btn-lg btn-success active" href="english/HomePage-E.html" role="button">&nbsp;&nbsp;&nbsp;English&nbsp;&nbsp;&nbsp;</a>
+                <a class="btn btn-lg btn-info active" href="vietnamese/HomePage-E.html" role="button">Tiếng Việt </a>
+                <a class="btn btn-lg btn-primary active" href="mongolian/HomePage-E.html" role="button">Монгол </a>
+                <a class="btn btn-lg btn-warning active" href="laotian/HomePage-E.html" role="button">&nbsp;&nbsp;&nbsp;ຄົນລາວ&nbsp;&nbsp;&nbsp;</a>
+                <a class="btn btn-lg btn-primary" href="cambodian/HomePage-E.html" role="button">&nbsp;&nbsp;&nbsp;ជនជាតិខ្មែរ&nbsp;&nbsp;&nbsp;</a>
+              </div>
+            </div>
+              
+            <div class="mastfoot" style="text-align:center;">
+              <div class="inner">
+                <p><a href="https://med.stanford.edu/liver.html" target="_blank" title="Asian Liver Center at Stanford University">&copy; Asian Liver Center at Stanford University | 2020</a></p>
+                <div class="badge_png" style="display: flex;width: min-content;">
+                  <a href="https://apps.apple.com/us/app/id1523455855" target="_blank"><img src="../picture/apple_dowload_badge.png" width="120" height="40" style="margin-top: 5px;"></a>
+                  <a href="https://play.google.com/store/apps/details?id=org.asianlivercenter.Know_HBV" target="_blank"><img src="../picture/google_play_badge.png" width="120" height="50"></a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script>window.jQuery || document.write('<script src="https://code.jquery.com/jquery-3.1.1.js"><\/script>')</script>
+   
+  </body>
+</html>
